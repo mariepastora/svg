@@ -1,0 +1,57 @@
+      svg { 
+        display: block;
+        margin: 0 auto;
+        background-color: #191919;
+      }
+
+      h1 { margin-bottom: 2rem; }
+
+      body {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        background-color: #191919;
+      }
+
+      h3 { 
+        margin-top: 3rem; 
+        margin-bottom: 1rem;
+      }
+
+      .container {
+        max-width: 100%;
+      }
+
+      img.block {
+        display: block;
+        border: solid #333 1p;
+        margin: 0 auto;
+      }
+
+      .sphere {
+        fill: none;
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+/*      .fill {
+        fill: #fff;
+      }
+*/
+      .graticule {
+        fill: none;
+        stroke: #777;
+        stroke-width: .5px;
+        stroke-opacity: .5;
+      }
+
+      h3 small {
+        background: #fff880;
+      }
+
+      #chart-6 svg {
+        display: inline;
+      }
+
+      .text-source{
+        z-index: 1;
+      }
